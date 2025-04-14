@@ -5,3 +5,4 @@ Git tracks changes.
 master
 bug fixed
 bug fixed from dev
+master2
